@@ -1,3 +1,15 @@
+# 생성
+
+```
+npx create-next-app@v13
+```
+
+으로 생성했어요.
+
+v14는 node v18 을 쓰는데 app runner는 아직 node v16까지만 쓸수 있어요. v18쓰려면 자동 CI/CD 안하고 직접 해야해요ㅠ
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
